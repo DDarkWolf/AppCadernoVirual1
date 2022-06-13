@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.PortuguesTerceiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="1º Bimestre – Gramática
+                Língua, linguagem e variedades linguísticas
+                Fonética e Fonologia – Fonema × letra;
+                Classificação dos fonemas
+                Encontros vocálicos, encontros consonantais, dígrafos, divisão silábica e acentuação
+                Estrutura das palavras – Radical, vogal temática, tema, desinências, afixos e vogal/consoante de ligação
+                Processos de formação das palavras – Derivação, composição e outros processos
+                Substantivo I – Classificação e flexão de número;
+                Artigo
+                Substantivo II – Flexão de gênero e variação de grau
+                2º Bimestre
+                Adjetivo e numeral
+                Pronomes – Classificação dos pronomes I: pessoais, possessivos e demonstrativos
+                Pronomes – Classificação dos pronomes II: relativos, indefinidos e interrogativos
+                Colocação pronominal
+                Concordância nominal
+                Verbos I – Classificação e flexão em número e pessoa;
+                Modos, tempos, vozes, formas nominais e locuções
+                Verbos II – Tempos primitivos e derivados, correlação entre modos e tempos verbais e uniformidade de tratamento
+                3º Bimestre
+                Verbos III – Tempos compostos, verbos primitivos e derivados e conjugação de verbos irregulares
+                Advérbio, palavras denotativas e preposição
+                Frase, oração e período;
+                Termos essenciais da oração I – Sujeito
+                Transitividade verbal e nominal e verbos de ligação
+                Termos essenciais da oração II – Predicado e predicativo
+                Concordância verbal – Regra geral e casos especiais I
+                4º Bimestre
+                Regência e crase
+                Termos acessórios da oração – Adjunto adnominal, adjunto adverbial, aposto e vocativo
+                Conjunções coordenativas e período composto por coordenação
+                Conjunções subordinativas I e período composto por subordinação I – Orações subordinadas substantivas
+                Conjunções subordinativas II e período composto por subordinação II – Orações subordinadas adjetivas e adverbiais" />
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

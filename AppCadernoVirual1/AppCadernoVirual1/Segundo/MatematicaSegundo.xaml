@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.MatematicaSegundo">
+    <ContentPage.Content>
+     <StackLayout>
+        <StackLayout>
+            <Label Text="GEOMETRIA" FontSize="20"/>
+                <Label Text="Equação da reta 
+                       Coeficientes da equação da reta 
+                       Posição relativa entre duas ou mais retas"/>
+                <Label Text="ÁLGEBRA E FUNÇÕES" FontSize="20" />
+                <Label Text="Variações entre grandezas e relação com funções 
+                       Domínio de validades das funções 
+                       Proporcionalidade|Função Linear" />
+            </StackLayout>
+           <StackLayout>
+                <Button Text="Voltar" Clicked="Button_Clicked" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

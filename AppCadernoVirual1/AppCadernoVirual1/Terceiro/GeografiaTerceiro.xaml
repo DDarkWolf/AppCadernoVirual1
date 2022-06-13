@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.GeografiaTerceiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="A Geografia como ciência do espaço
+                Objeto central e conceitos básicos dos estudos da disciplina de Geografia
+                Estudo dos materiais e recursos para a compreensão do conteúdo programático pertinentes para essa etapa: materiais cartográficos, imagéticos, textuais, estatísticos e artísticos
+                A Globalização do espaço geográfico
+                A Internacionalização da produção
+                Os meios de transporte
+                Os sistemas de comunicação
+                Os fluxos financeiros e as formas de organização do capital
+                Os fluxos de comércio mundial
+                A regionalização do espaço geográfico
+                Os blocos econômicos
+                Economias em transição
+                A regionalização do espaço brasileiro
+                A fragmentação do espaço geográfico
+                A importância dos aspectos étnicos, culturais e religiosos
+                Os movimentos reivindicatórios por autonomia
+                Conflitos locais e regionais
+                A questão ambiental
+                O movimento sustentável
+                Movimentos ambientalistas
+                Preservação da natureza
+                Problemas ambientais" />
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

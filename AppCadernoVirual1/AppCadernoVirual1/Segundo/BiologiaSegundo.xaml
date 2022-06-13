@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.BiologiaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="• Características gerais e ciclo de reprodução dos Vírus.
+• Doenças viróticas e saúde pública.
+• Sistemas de defesa – Noções de imunologia.
+• Características gerais, reprodução, nutrição e respiração das Bactérias.
+• Doenças bacterianas e saúde pública.
+• Antibióticos e mecanismos de resistência.
+• Características gerais dos Fungos.
+• Doenças fúngicas e saúde pública.
+• Classificação dos Fungos.
+• Importância econômica.
+• Relações ecológicas – líquens e micorrizas.
+Características gerais e classificação dos Protistas.
+• Principais protistas parasitas humanos.
+• Flagelados – Doença de Chagas.
+• Leishmaniose, giardíase e tricomoníase.
+• Sarcodinos.
+• Esporozoários.
+• Ciliados e algas.
+• Importância das Algas – classificação e ciclos reprodutivos.
+• Botânica.
+• Criptógamas, Briófitas e Pteridófitas
+• Características gerais das plantas
+• Anatomia vegetal
+• Reprodução vegetal
+• Importância ecológica e econômica (etnobotânica)
+• Espermatófitas, gimnospermas e angiospermas
+• Fisiologia vegetal.
+• Metabolismo e hormônios de vegetais.
+• Fitoterápicos.
+• Animais Invertebrados
+• Características gerais dos Poríferos, Cnidários, dos Platelmintos e Nematelmintos, dos Moluscos, Anelídeos, Artrópodes e Equinodermas
+• Reprodução dos Invertebrados
+• Doenças e saúde pública dos platelmintos e nematelmintos.
+• Animais Vertebrados
+• Características gerais dos animais vertebrados, peixes e anfíbios, répteis, aves e mamíferos
+• Reprodução dos vertebrados, peixes e anfíbios, répteis, aves e mamíferos
+• Importância ecológica e econômica de vertebrados e invertebrados:
+• Poríferos, Cnidários
+• Platelmintos e Nematelmintos
+• Moluscos, Anelídeos, Artrópodes
+• Peixes e Anfíbios
+• Répteis
+• Aves e mamíferos
+• Animais peçonhentos" />
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

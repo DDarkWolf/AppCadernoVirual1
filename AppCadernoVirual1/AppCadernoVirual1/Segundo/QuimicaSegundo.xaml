@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.QuimicaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="REAÇÕES INORGÂNICAS →  Reações de síntese ou adição/ Reação de decomposição/ Reação de simples troca (e sua ocorrência)/ Reação de dupla troca (e sua ocorrência).
+
+ESTEQUIOMETRIA →  Leis ponderais / Conceituação de massa atômica e massa molecular /Número de Avogadro, conceito de mol e massa molar / Cálculo químico/ Cálculo de átomos, moléculas e mol/ Cálculo de rendimentos das reações / Noções gerais e particularidades do cálculo químico.
+
+GASES → Conceitos fundamentais: pressão, volume e temperatura/ Leis empíricas dos gases/ Lei dos gases ideais/ Misturas gasosas: lei de Dalton/ Teoria cinética dos gase
+
+ 
+
+SOLUÇÕES → A noção de concentração (soluto e solvente) / Preparação de soluções/ A molaridade / Mistura de soluções/ Diluição.  
+
+ 
+
+PROPRIEDADE COLIGATIVA → Tonoscopia / Ebulioscopia/ Crioscopia/ Osmoscopia. 
+
+  
+
+TERMOQUÍMICA → Capacidade calorífica/ Reações endotérmicas e exotérmicas / O calor de uma reação química/ Entalpia/ Lei de Hess / Energia das ligações. 
+
+ 
+
+QUÍMICA ORGÂNICA → Histórico e definição da química orgânica / Classificação dos carbonos e das cadeias carbônicas/ Nomenclatura dos hidrocarbonetos com cadeias normais / Nomenclatura dos hidrocarbonetos ramificados–Classificação dos hidrocarbonetos / Funções orgânicas oxigenadas (nomenclatura e classificação) / Funções orgânicas halogenadas (nomenclatura e classificação) / Funções orgânicas nitrogenadas (nomenclatura e classificação). " />
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

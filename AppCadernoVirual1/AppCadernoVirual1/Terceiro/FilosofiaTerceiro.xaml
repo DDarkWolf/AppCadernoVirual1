@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.FilosofiaTerceiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Apresentação
+Ética e moral
+O ato moral
+Dever e liberdade
+A questão da verdade
+O problema do livre-arbítrio
+Questionários no Kahoot
+Outros textos
+Referências" />
+            <Label Text="A questão da verdade
+Quando falamos em ética outro tema recorrente é a questão da verdade. Nós costumamos pensar a verdade como um caminho único, uma resposta absoluta para a coisas. O filósofo alemão Martin Heidegger escreveu que existiam duas concepções distintas de ética na antiguidade: aletheia (desvelamento) e orthotes (correção). A perspectiva que prevaleceu no Ocidente, de acordo com Heidegger, foi a noção de verdade como correção, o que implica em uma perspectiva de um caminho certo que se opõe ao erro. É assim, por exemplo, que muitas vezes as pessoas que defendem a ciência, ou a filosofia, ou a religião, acham que apenas a sua forma de ver e entender a realidade tem validade. E no campo da ética, como você pode imaginar, esse tipo de postura tem consequências que podem ser drásticas.
+
+Pensando no caminho da aletheia, podemos dizer que se o conhecimento está em processo, a verdade também está. Por isso, a ética muda, se transforma, se adapta. No entanto, isso não impede a existência de diferentes concepções éticas ao longo da história. Sócrates, por exemplo, defendia que só não é virtuoso quem não conhece a virtude. Portanto, conhecer a verdade implica em seguir o caminho da verdade, ou seja, fazer o que é certo." />
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

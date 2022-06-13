@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.FisicaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Hidrostática
+ – Densidade e pressão;
+
+– Teorema de Stevin – Pressão hidrostática – Vasos comunicantes;
+
+– Experiência de Torricelli;
+
+– Princípio de Pascal;
+
+– Teorema de Arquimedes – Empuxo;
+
+Hidrodinâmica
+– Equação da continuidade – Equação de Bernoulli;
+
+Física Térmica
+– Conceitos iniciais;
+
+– Termometria;
+
+– Propagação de calor;
+
+– Termologia;
+
+– Calor sensível;
+
+– Calor latente;
+
+– Dilatometria;
+
+– Termodinâmica;
+
+Óptica
+– Princípio da propagação da luz;
+
+– Reflexão da Luz e espelhos planos;
+
+– Associação de espelhos planos;
+
+– Espelhos esféricos (construção de imagens e estudo analítico);
+
+– Refração luminosa;
+
+– Lei luminosa;
+
+– Leis da refração;
+
+– Reflexão total;
+
+– Dioptro plano;
+
+– Lâminas de faces paralelas;
+
+– Prismas;
+
+– Lentes (construção de imagens e estudo analítico);
+
+–Instrumentos ópticos;
+
+– Óptica fisiológica;"/>
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.TerceiroAno"
+             BackgroundColor="	#1C1C1C">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Frame BackgroundColor="#800000" 
+                       Padding="24" 
+                       CornerRadius="0">
+                    <Label Text="Matérias Terceiro Ano" 
+                           FontAttributes="Bold" 
+                           HorizontalTextAlignment="Center" 
+                           TextColor="White" 
+                           FontSize="36"/>
+                </Frame>
+                
+                <Button Text="Matemática" 
+                        Clicked="btn_mat_terceiro"
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Química" 
+                        Clicked="btn_qui_terceiro"                        
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Física" 
+                        Clicked="btn_fis_terceiro"                        
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Geografia" 
+                        Clicked="btn_geo_terceiro"                        
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Portugês" 
+                        Clicked="btn_port_terceiro"                        
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Inglês" 
+                        Clicked="btn_ing_terceiro"
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="História" 
+                        Clicked="btn_his_terceiro"
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Filosofia" 
+                        Clicked="btn_fil_terceiro"
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Sociologia" 
+                        Clicked="btn_soc_terceiro"  
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Biologia" 
+                        Clicked="btn_bio_terceiro"     
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Ed.Física" 
+                        Clicked="btn_edfis_terceiro"     
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+
+                <Label Text= "Matérias curso" 
+                       TextColor="White" 
+                       FontAttributes="Bold"
+                       FontSize="30"
+                       HorizontalOptions="CenterAndExpand" 
+                       Padding="30"/>
+
+                <Button Text="Qualidade e Teste de Software" 
+                        Clicked="btn_testesoftware_terceiro"                        
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Internet e Protocolos" 
+                        Clicked="btn_internet_terceiro"         
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Progamação WEB III" 
+                        Clicked="btn_web3_terceiro"                
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="Programação Mobile II" 
+                        Clicked="btn_mob2_terceiro"      
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+                
+                <Button Text="TCC" 
+                        Clicked="btn_tcc_terceiro"              
+                        CornerRadius="10"
+                        Margin="10"
+                        BackgroundColor="#8A2BE2"
+                        FontAttributes="Bold"/>
+
+                <Button Text="Voltar" 
+                        Clicked="Voltar3"                        
+                        CornerRadius="10"
+                        Padding="20"
+                        HorizontalOptions="End"
+                        BackgroundColor="DarkRed"
+                        FontAttributes="Bold"/>
+                        
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

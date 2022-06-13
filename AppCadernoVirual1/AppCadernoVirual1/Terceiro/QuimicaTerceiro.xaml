@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.QuimicaTerceiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="I. Introdução à Química Orgânica 1. O que é Química Orgânica? 2. O átomo de carbono. 3. Compostos de carbono. II. Funções Orgânicas 1. Hidrocarbonetos: conceitos, classificações e nomenclaturas. 2. Funções Oxigenadas: conceitos, classificações e nomenclaturas. 3. Funções Nitrogenadas: conceitos, classificações e nomenclaturas. 4. Funções Sulforadas: conceitos, classificações e nomenclaturas. 5. Funções Halogenadas: conceitos, classificações e nomenclaturas. 6. Organometálicos: conceitos, classificações e nomenclaturas. 7. Estrutura e propriedades físicas dos compostos orgânicos. III. Reações Orgânicas 1. Reações de Adição. 2. Reações de Substituição. 3. Reações de Eliminação. 4. Outras reações orgânicas. IV. Isomeria Constitucional e Espacial 1. Isomeria: conceitos, caracterização e classificações. 2. Isomeria Constitucional: de cadeia, de posição, de função, de compensação e tautomeria. 3. Isomeria Espacial: óptica e geométrica. 4. Importância do conhecimento da isomeria de moléculas para o desenvolvimento de novas substâncias. V. Radioatividade 1. Histórico: modelo Atômico de Rutherford e seus experimentos. 2. Partículas subatômicas. 3. Decaimento radioativo. 4. Reações nucleares. 5. Fissão e fusão nuclear. 6. Relação entre radioatividade, saúde e problemas ambientais. VI. Relações da Química com as Tecnologias, a Sociedade e o Meio Ambiente" />
+            <StackLayout>
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

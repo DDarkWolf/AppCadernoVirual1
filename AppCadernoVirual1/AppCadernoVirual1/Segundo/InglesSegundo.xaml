@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.InglesSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="1º bimestre:
+
+LISTENING
+Graus de formalidade nos diálogos
+Marcadores do discurso
+Frases nas formas afirmativa, negativa e interrogativa.
+Wh words: sentenças interrogativas
+Verbos auxiliares: formas negativa e interrogativa, formas afirmativa e negativa curtas;
+Conectores usados na oralidade
+
+Organizadores temporais: early, later, then, now, today, nowadays,
+
+READING
+Hiperônimos/ hipônimos
+
+Sinônimos e antônimos
+Verbos nos tempos: presente, passado, futuro – simples e contínuo
+Pronomes: pessoais (objective and subjective cases), possessivos, demonstrativos e indefinidos;
+Advérbios: tempo, modo, lugar
+Conjunções (temporalidade, causa, oposição, condição, etc.)
+Pronomes relativos (which, who, that…);
+Formas comparativas e superlativas (situações de compra, tomada de decisões, etc.).
+
+WRITING
+Preposições
+Comparativos e superlativos
+
+2º bimestre
+
+LISTENING
+Formas longa e contraída dos verbos: be, there + be, have, can, etc.
+Fonologia
+Expressões indicadoras de tempo (now, then, while, today, etc.)
+Uso do caso possessivo ('s)
+Diferença entre It's e its
+Marcadores comuns da língua inglesa: Well; I see; I wonder; I mean; you know; get it; definitly; sure, etc.
+
+ORAL PRODUCTION
+Graus de formalidade
+Tempos verbais: Presente, Passado e Futuro Simples e Contínuos;
+Present perfect
+Palavras e expressões que introduzem uma opinião (In my opinion / In my point of view/ I think that / I believe that etc.)
+Recursos de coesão: preposições, conjunções, marcadores do discurso
+Question tags
+
+READING
+Formação das palavras (prefixos, sufixos, compounds);
+Cognatas e falsas cognatas
+Análise de recursos linguísticos diversos: conjunções, advérbios e linking words
+Verbos modais
+Voz Passiva e da 3ª pessoa (singular e plural)
+
+3º bimestre
+
+LISTENING
+Sentenças: negativa, exclamativa, interrogativa, declarativa, question tags
+Marcadores conversacionais: aprovação, persuasão, apelação, negação, dúvida
+Adjetivos e advérbios: intensidade/ modo / tempo
+
+WRITING AND LISTENING RELATIONS
+Conectores e articuladores do discurso: comumente presentes nas conversas / diálogos.
+
+READING
+Conectores em textos opinativos
+Modalizadores
+
+
+WRITING
+Especificidades da organização textual
+Vocabulário
+Uso dos conectores: descrição, artigo informativo
+Modalizadores: (should, could, may /might
+Imperativo: sugestão, preferência, persuasão
+Verbos, adjetivos e advérbios descritivos
+Coesão e coerência textuais
+Marcas da oralidade
+
+4º bimestre
+
+LISTENING
+Graus de formalidade
+Mudanças de turno
+Expressões: modo, tempo e frequência.
+
+WRITING AND LISTENING RELATIONS
+Tempos verbais
+Pronomes (object /subject case),
+Indefinite pronouns (some, any, no, etc.)
+Preposições
+Adjetivos
+Advérbios: tempo, modo, lugar
+Linking words
+Question tags
+
+READING
+Advérbios e expressões adverbiais
+Phrasal verbs
+Infinitivo e gerúndio
+Relative clauses
+
+WRITING
+Graus de formalidade
+Léxico: ordem das palavras, ing-form, gerundio/infinitivo; relative clause, pronomes indefinidos / quantificadores
+Conectores
+Advérbios" />
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

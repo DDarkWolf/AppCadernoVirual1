@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.GeografiaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="O espaço industrial
+A dinâmica industrial no mundo contemporâneo
+Classificação dos tipos de indústria
+Segunda e Terceira Revoluções Industrial
+A reorganização do Espaço
+As fontes de energia
+O Espaço urbano-industrial e a regionalização do Brasil
+O espaço urbano
+Industrialização e urbanização
+Problemas sociais urbanos
+Redes urbanas
+Planejamento urbano
+O Espaço agrário
+População mundial
+Produção de alimentos
+Deficiência alimentar e fome
+As inter-relações entre elementos naturais e a agricultura
+As relações campo-cidade
+Sistemas agrários diferenciados no mundo contemporâneo: tradicionais e modernos
+A estrutura agrária no Brasil e a luta pela Terra
+A formação e o desenvolvimento do complexo agroindustrial brasileiro
+Dinâmica populacional
+Conceitos básicos sobre demografia
+Crescimento populacional e as teorias demográficas
+Estrutura da população
+A distribuição da população no Brasil e no Mundo
+As condições de vida e os desafios básicos da população brasileira e mundial
+Mobilidade populacional" />
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

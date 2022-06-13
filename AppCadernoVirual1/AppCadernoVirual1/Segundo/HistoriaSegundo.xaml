@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.HistoriaSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Mercantilismo e colonização: Formação dos Estados Nacionais, Política econômica do Estado Moderno, as Grandes Navegações, Colonialismo (domínio das metrópoles sobre as colônias), a decisão de ocupar as terras descobertas.
+
+Estado e religião: Capitanias Hereditárias (início da administração das Colônias), Governo-Geral (uma tentativa de centralização da Administração Colonial), Falhas na Administração Colonial (descentralização do Poder no governo), Padroado (Vínculos entre Igreja Católica e os agentes de poder da Coroa).
+
+Sociedade baseada na exploração da produção do açúcar: Açúcar (implantação de um negócio lucrativo), Engenhos de açúcar (núcleo econômico e social), Mercado interno da colônia (pecuária e culturas de subsistência das mais variadas), Mão de obra (Escravidão africana no Brasil).
+
+Escravidão e movimentos de Resistência à escravidão: Tráfico negreiro (o lucrativo negócio de vidas humanas), Povos africanos e suas condições de vida no Brasil Colônia, Formas de resistência dos povos africanos quanto ao trabalho escravo.
+
+Holandeses no Brasil: União Ibérica (aliança através do Matrimônio das Coroas Espanhola e Portuguesa), Invasões Holandesas em busca da dominação do mercado de açúcar, Portugal pós 1640 (Fim da União Ibérica).
+
+Expansão Territorial: A marcha da colonização, Expedições militares (expansão patrocinada pela Coroa), Bandeiras (expansão voltada à captura de indígenas e patrocinada por particulares), Ordem dos Jesuítas no Brasil (fundação de aldeamentos no interior do Brasil), Pecuária (povoamento do sertão e da região Sul), Tratado de Tordesilhas (e outros Tratados e acordos internacionais sobre o território colonial).
+
+Sociedade mineradora: Ouro (sonho da Coroa Portuguesa), administração das minas de ouro, desenvolvimento da vida urbana em Minas Gerais, o declínio da produção aurífera.
+
+Antigo Regime e Iluminismo: Sociedade e política na Europa Moderna, Iluminismo (busca da razão como forma de liberdade), Pensadores iluministas, Déspotas esclarecidos (Absolutismo e algumas reformas sociais).
+
+Inglaterra e Revolução Industrial: Revolução Inglesa (do Absolutismo à monarquia parlamentar), Revolução Industrial (da produção artesanal à produção nas fábricas), a nova sociedade urbana e industrializada.
+
+Formação dos Estados Unidos: 13 colônias (ocupação inglesa na América do Norte), Emancipação (Nascimento dos Estados Unidos).
+
+Revolução Francesa e Era Napoleônica: Crise do Antigo Regime, Revolução Francesa, Era Napoleônica, Congresso de Viena.
+
+Independências das Colônias da América Latina: Crise colonial, Lutas pela Independência.
+
+Independência do Brasil: crise colonial, rebeliões coloniais, vinda da Família Real Portuguesa para o Brasil, Ruptura com a Corte Portuguesa.
+
+Primeiro Reinado: O novo país, Primeira Constituição, Confederação do Equador, a conjuntura do final do Primeiro Reinado.
+
+Período das Regências: cenário político, Período Regencial, Revoltas do Período Regencial.
+
+Segundo Reinado: Política interna, Revolta Praieira (Revolta liberal pernambucana, o impacto das transformações econômicas.
+
+Crise do Império: Conflitos internacionais no Segundo Reinado, Movimento Abolicionista, Queda da Monarquia e instauração da Instituição da República.
+
+Europa no século XIX: Nacionalismo, liberalismo, socialismo e anarquismo. Revoltas liberais na França, A Formação do Estado italiano, Unificação da Alemanha (formação de uma nova potência econômica
+
+Imperialismo na África e na Ásia: Avanço do Capitalismo (surgimento de grandes potências), Neocolonialismo (Partilha do Mundo entre as grandes potências), África e Ásia (dominação neocolonialista em ambos os continentes).
+
+América no século XIX: O Desenvolvimento dos Estados Unidos, América Latina (elementos históricos), Imperialismo (dominação da América Latina pelos Estados Unidos)." />
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

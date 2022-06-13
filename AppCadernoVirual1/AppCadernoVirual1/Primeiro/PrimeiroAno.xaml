@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Primeiro.PrimeiroAno"
+             BackgroundColor="	#1C1C1C">
+    
+    <ContentPage.Content>
+        <ScrollView>
+           
+            <StackLayout>
+                <Frame BackgroundColor="#8B008B" 
+                       Padding="24" 
+                       CornerRadius="0">
+                    
+                    <Label Text="Matérias Primeiro Ano" 
+                           HorizontalTextAlignment="Center" 
+                           FontAttributes="Bold"
+                           TextColor="White" 
+                           FontSize="36"/>
+             </Frame>
+                
+            <Button Text="Matemática" 
+                    Clicked="Button_Clicked"
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Química" 
+                    Clicked="Button_Clicked_1"
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Física" 
+                    Clicked="Button_Clicked_2"                   
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Geografia" 
+                    Clicked="Button_Clicked_3"             
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Portugês" 
+                    Clicked="Button_Clicked_4"             
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Inglês" 
+                    Clicked="Button_Clicked_5"        
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="História" 
+                    Clicked="Button_Clicked_6"      
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Filosofia" 
+                    Clicked="Button_Clicked_7"        
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Artes" 
+                    Clicked="Button_Clicked_8"        
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Biologia" 
+                    Clicked="Button_Clicked_9"     
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Ed.Física" 
+                    Clicked="Button_Clicked_10"     
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+
+                <Label Text= "Matérias curso" 
+                       TextColor="White" 
+                       FontAttributes="Bold"
+                       FontSize="30"
+                       HorizontalOptions="CenterAndExpand" 
+                       Padding="30"/>
+            
+            <Button Text="Análise e Projeto de Sistemas" 
+                    Clicked="Button_Clicked_11"    
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Design Digital" 
+                    Clicked="Button_Clicked_12"       
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Fundamentos da Informática" 
+                    Clicked="Button_Clicked_13"       
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Técnicas de Progrmação e Algoritmos"
+                    Clicked="Button_Clicked_14"     
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+                
+            <Button Text="Banco de Dados" 
+                    Clicked="Button_Clicked_15"    
+                    CornerRadius="10"
+                    BackgroundColor="#7B68EE"
+                    FontAttributes="Bold"/>
+
+            <Button Text="Voltar" 
+                    Clicked="Voltar"                        
+                    CornerRadius="10"
+                    Padding="20"
+                    HorizontalOptions="End"
+                    BackgroundColor="DarkRed"
+                    FontAttributes="Bold"/>
+
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

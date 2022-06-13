@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Terceiro.InglesTerceiro">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+            <Label Text="LISTENING
+                Uso dos verbos: do, have, can / could.
+                Tempos verbais: Presente, Passado e Futuro Simples (revisão); Present Perfect; Present Perfect Continuous
+                Conectores (linking words)
+                Marcadores conversacionais
+                Advérbios: tempo, de frequência, modo, dúvida
+                Expressões idiomáticas
+
+                READING
+                Palavras cognatas e falsas cognatas
+                Processos de formação das palavras
+                Sinônimos, antônimos, hiperônimos, hipônimos e parônimos
+                Categoria gramatical
+                Advérbios, locuções adverbiais e conectores
+                Modal verbs: can/could, must, might
+                Voz passiva
+
+                WRITING
+                Elementos de coesão: advérbios de tempo, modo, intensidade; sequenciadores, conjunções e preposições
+
+                2º bimestre
+
+                LISTENING
+                Fonemas da língua inglesa
+                Spelling
+                Padrões de entonação
+                Frases interrogativas, exclamativas, negativas, declarativas
+                Pronúncia correta de verbos no passado (ED).
+
+                ORAL PRODUCTION
+                Uso de adjetivos e substantivos (inversão da ordem no inglês)
+                Question tags
+                Verbos auxiliares/ Modais
+                Uso de tempos verbais (presente, passado e futuro/ tempos simples e compostos)
+                Conditional clauses: formas infinitivas e gerundivas.
+                Uso de pronomes, conjunções, advérbios, preposições e locuções.
+                Substantivos contáveis e incontáveis
+
+                READING
+                Relações semânticas
+                Conditional clauses
+                Formas infinitivas e gerundivas: pronomes, conjunções, advérbios, preposições e locuções.
+                Emprego de formas verbais: I have/ I've got; Gonna, Wanna, Ain't
+
+
+                3º bimestre
+
+                LISTENING
+
+                Identificar graus de formalidade
+                Identificar pronomes e seus referentes
+
+                WRITING AND LISTENING RELATIONS
+                Imperativo: formas afirmativa e negativa.
+                Pronúncias: verbos no passado
+                Distiguir fonemas semelhantes na pronúncia dos verbos.
+                Tempos verbais: retomada
+
+                READING
+                Reading strategies: inference, scanning, reading for detail.
+                Recursos linguísticos
+                Passive Voice
+                Tempos e modos verbais: retomada
+                Conectores, verbos e sinais de pontuação
+
+                WRITING
+                Emprego de tempos verbais, verbos auxiliares e marcadores temporais.
+
+                4º bimestre
+
+                LISTENING
+                Marcas da oralidade
+                Identificar marcadores do discurso: temporais, sequenciadores e de conectores em geral
+                Pronomes Relativos: who, whose, whom, where
+                Pares mínimos comuns da língua inglesa
+
+                ORAL PRODUCTION
+                Emprego dos marcadores e conectores adequados ao gênero.
+                Escolha do léxico
+                Funções da língua
+                Emprego de tempos verbais, verbos auxiliares e marcadores temporais
+
+                READING
+                Aspectos linguísticos da construção dos gêneros
+                Verbos nos tempos: past simple e past continuous, presente simples e present perfect
+                Artigos
+                Advérbios de intensidade
+                Pronomes reflexivos
+                If / whether
+                Conectores
+                Marcadores temporais: advérbios, conjunções
+
+                WRITING
+                Vocabulário
+                Recursos morfossintáticos
+                Uso de expressões idomáticas e verbos com partículas
+                Emprego de conectores e marcadores do discurso: advérbios, conjunções e preposições" />
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirual1.Segundo.PortuguesSegundo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="1º Bimestre – Gramática
+Escrita e oralidade
+Variação linguística
+Enunciação
+Referenciação
+Coesão gramatical
+Organizadores textuais
+ 
+2º Bimestre
+Concordância nominal
+Concordância verbal
+Conectivos: conjunção e preposição
+Regência nominal
+Regência verbal
+Período composto
+ 
+3º Bimestre
+A coordenação
+Orações coordenadas
+A subordinação
+Orações substantivas
+Orações adjetivas
+Funções sintáticas do pronome relativo
+4º Bimestre
+Orações adverbiais
+A pontuação no período composto
+Operadores argumentativos
+A reprodução das falas e sua gramática
+Figuras de sintaxe" />
+
+            <Button Text="Voltar" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
